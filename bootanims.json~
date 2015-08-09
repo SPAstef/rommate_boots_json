@@ -1,5 +1,5 @@
 {  
-    "Boots":[  
+    "FreeBoots":[  
         {  
             "title":"Tunnel",
             "description":"A very Wank Boot animation for the nexus 5, xxhdpi.",
@@ -30,6 +30,19 @@
             "video":"https://dl.dropboxusercontent.com/u/75065013/rommate/baby.mp4",
             "link":"https://dl.dropboxusercontent.com/u/75065013/rommate/minos.zip",
             "md5":"22384a3c4207c5308a5f344d5771dc77",
+            "icon":"http://i.imgur.com/CqUM3OK.png",
+            "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
+        }
+        ],
+
+   "DonateBoots":[  
+        {  
+            "title":"Vortex",
+            "description":"Donate version Boot animation for the nexus 5, xxhdpi.",
+            "author":"S Lovejoy",
+            "packagename":"vortex.zip",
+            "video":"https://dl.dropboxusercontent.com/u/75065013/rommate/baby.mp4",
+            "link":"https://dl.dropboxusercontent.com/u/75065013/rommate/vortex.zip",
             "icon":"http://i.imgur.com/CqUM3OK.png",
             "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
         }
