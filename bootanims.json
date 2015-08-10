@@ -32,6 +32,17 @@
             "md5":"22384a3c4207c5308a5f344d5771dc77",
             "icon":"http://i.imgur.com/CqUM3OK.png",
             "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
+        },
+        {
+            "title":"ELEMENT",
+            "description":"ELEMENT bootanimation",
+            "author":"SPAstef",
+            "packagename":"stock.zip",
+            "video":"",
+            "link":"https://dl.dropboxusercontent.com/s/lb09131xek13box/element.zip",
+            "md5":"",
+            "icon":"http://i.imgur.com/CqUM3OK.png",
+            "promo":"https://dl.dropboxusercontent.com/u/75065013/layers/promo.png"
         }
         ]
 }
